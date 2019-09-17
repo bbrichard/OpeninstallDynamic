@@ -1,0 +1,16 @@
+PODS:
+  - libOpenInstallSDK (2.3.0)
+
+DEPENDENCIES:
+  - libOpenInstallSDK
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - libOpenInstallSDK
+
+SPEC CHECKSUMS:
+  libOpenInstallSDK: 591755d306aaab15aa3e04db258d12c372797cd6
+
+PODFILE CHECKSUM: 482458a254bd00983367c37362ecda533392578e
+
+COCOAPODS: 1.7.5
